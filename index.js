@@ -7,7 +7,6 @@ var mousePositionControl = new ol.control.MousePosition({
 var map = new ol.Map({
     controls: ol.control.defaults().extend([mousePositionControl]),
     target: 'map',
-
     layers: [
         new ol.layer.Group({
             title: 'Overlay',
