@@ -1,0 +1,25 @@
+head {
+    background-color: black;
+}
+
+.headText {
+    color:orange;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 10px;
+}
+
+p {
+    color: white;
+    margin-left: 50px;
+}
+
+#mapid {
+    height: 180px;
+}
